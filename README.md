@@ -5,7 +5,7 @@
 
 Auditoria de integridade tecnica para detecao de cloaking, injecao maliciosa de palavras-chave, redirecionamentos condicionais e ficheiros infetados.
 
-Desenvolvido e mantido pelo centro de resposta a incidentes de ciberseguranca da **TAVARDT Portugal**.
+Desenvolvido e mantido pelo centro de resposta a incidentes de ciberseguranca da **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python seo_spam_detector.py exemplo.pt -json
 Para auditorias imediatas de seguranca e deteccao de desfiguracao de plataformas web:
 
 * **Detetor de Sites Hackeados e Spam SEO Oficial**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Resposta a Incidentes e Desinfeccao Web
 
-Para remocao forense de codigos infetados e reforco perimetral de acordo com Diretrizes CNCS e Boas Praticas de Seguranca Web, contacte os especialistas da **TAVARDT Portugal**.
+Para remocao forense de codigos infetados e reforco perimetral de acordo com Diretrizes CNCS e Boas Praticas de Seguranca Web, contacte os especialistas da **TAVARDT**.
 
 ***
 
