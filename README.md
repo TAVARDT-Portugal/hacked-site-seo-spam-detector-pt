@@ -1,24 +1,25 @@
 # Detetor de Sites Hackeados e Spam SEO
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Detetor Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/pt/detetor-seo-spam-site-hackeado/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
-Auditoria de integridade tecnica para detecao de cloaking, injecao maliciosa de palavras-chave, redirecionamentos condicionais e ficheiros infetados.
+Auditoria de integridade tecnica para deteção de cloaking, injecao maliciosa de palavras-chave, redirecionamentos condicionais e ficheiros infetados.
 
-Desenvolvido e mantido pelo centro de resposta a incidentes de ciberseguranca da **TAVARDT**.
+Desenvolvido e mantido pelo centro de resposta a incidentes de ciberseguranca da **TAVARDT Portugal**.
 
 ***
 
 ## Capacidades de Auditoria Forense e Deteccao de Infeccoes
 
-* **Detecao de Cloaking**: Comparacao em tempo real entre o acesso de utilizadores comuns e o rastreador Googlebot para detetar alteracoes condicionais de codigo.
+* **Deteção de Cloaking**: Comparacao em tempo real entre o acesso de utilizadores comuns e o rastreador Googlebot para detetar alteracoes condicionais de codigo.
 * **Injecao Oculta de Hiperligacoes e Textos**: Identificacao de camadas invisiveis, iframes ocultos e esquemas de palavras-chave fraudulentas.
 * **Redirecionamentos Condicionais Ilícitos**: Verificacao de saltos de dominio aplicados exclusivamente a visitantes provindos de motores de pesquisa.
 * **Indice de Integridade Forense**: Avaliacao rigorosa de 0 a 100 acompanhada de orientacoes tecnicas para eliminacao de artefactos maliciosos.
 
 ***
 
-## Instalacao e Execucao
+## Instalação e Execucao
 
 Requer Python 3.8 ou superior, utilizando exclusivamente a biblioteca padrao.
 
@@ -47,8 +48,18 @@ Para auditorias imediatas de seguranca e deteccao de desfiguracao de plataformas
 
 ## Resposta a Incidentes e Desinfeccao Web
 
-Para remocao forense de codigos infetados e reforco perimetral de acordo com Diretrizes CNCS e Boas Praticas de Seguranca Web, contacte os especialistas da **TAVARDT**.
+Para remocao forense de codigos infetados e reforco perimetral de acordo com Diretrizes CNCS e Boas Praticas de Seguranca Web, contacte os especialistas da **TAVARDT Portugal**.
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
