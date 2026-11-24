@@ -56,10 +56,8 @@ Para remocao forense de codigos infetados e reforco perimetral de acordo com Dir
 
 ***
 
-## Governança e Conformidade
+## Links Úteis
 
-* **Organização**: TAVARDT-Portugal
-* **Jurisdição**: Portugal
-* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
-
-Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
+* **Portal Corporativo:** https://ag.tavardt.com/pt/
+* **Suíte de Diagnósticos:** https://tools.tavardt.com/pt/
+* **Contacto Técnico:** https://ag.tavardt.com/pt/contacto/
