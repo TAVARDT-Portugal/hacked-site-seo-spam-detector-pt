@@ -1,12 +1,12 @@
 # Detetor de Sites Hackeados e Spam SEO
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Detetor Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/pt/detetor-seo-spam-site-hackeado/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Auditoria de integridade tecnica para deteção de cloaking, injecao maliciosa de palavras-chave, redirecionamentos condicionais e ficheiros infetados.
+Scanner de integridade e auditoria de seguranca concebido para detetar cloaking, injecoes de texto oculto e redirecionamentos maliciosos em Portugal.
 
-Desenvolvido e mantido pelo centro de resposta a incidentes de ciberseguranca da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de ciberdefesa e resposta a incidentes da **TAVARDT Portugal**.
 
 ***
 
@@ -52,12 +52,19 @@ Para remocao forense de codigos infetados e reforco perimetral de acordo com Dir
 
 ***
 
-© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
 
-***
 
 ## Links Úteis
 
 * **Portal Corporativo:** https://ag.tavardt.com/pt/
 * **Suíte de Diagnósticos:** https://tools.tavardt.com/pt/
 * **Contacto Técnico:** https://ag.tavardt.com/pt/contacto/
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
