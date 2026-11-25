@@ -6,8 +6,6 @@
 
 Scanner de integridade e auditoria de seguranca concebido para detetar cloaking, injecoes de texto oculto e redirecionamentos maliciosos em Portugal.
 
-Desenvolvido e mantido pela divisao de ciberdefesa e resposta a incidentes da **TAVARDT Portugal**.
-
 ***
 
 ## Capacidades de Auditoria Forense e Deteccao de Infeccoes
@@ -37,15 +35,6 @@ python seo_spam_detector.py exemplo.pt -json
 
 ***
 
-## Plataforma Online de Diagnostico
-
-Para auditorias imediatas de seguranca e deteccao de desfiguracao de plataformas web:
-
-* **Detetor de Sites Hackeados e Spam SEO Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Resposta a Incidentes e Desinfeccao Web
 
 Para remocao forense de codigos infetados e reforco perimetral de acordo com Diretrizes CNCS e Boas Praticas de Seguranca Web, contacte os especialistas da **TAVARDT Portugal**.
@@ -63,7 +52,7 @@ Para remocao forense de codigos infetados e reforco perimetral de acordo com Dir
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
